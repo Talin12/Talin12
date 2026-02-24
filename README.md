@@ -67,7 +67,8 @@ A backend system simulating core banking operations — built to practice real-w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talin12&layout=compact&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talin12&theme=default" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talin12&theme=default" alt="Top Languages by Commit" />
 </p>
 
 ---
