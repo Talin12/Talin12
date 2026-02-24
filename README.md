@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:talindaga692@gmail.com">
-    <img src="https://img.shields.io/badge/Email-talindaga692@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-talindaga692%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1iD6JGnj99TCVNbqCRbHirBGCx68amVte/view?usp=sharing">
@@ -67,7 +67,7 @@ A backend system simulating core banking operations — built to practice real-w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talin12&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talin12&layout=compact&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
