@@ -1,78 +1,76 @@
-<h1 align="center">Hey, I'm Talin Daga 👋</h1>
+<h1 align="center">Talin Daga</h1>
 
 <p align="center">
-  <em>Backend Developer in the making &nbsp;·&nbsp; India 🇮🇳</em>
+  <strong>Backend Engineer</strong> · Python · Django · PostgreSQL · Docker<br>
+  <sub>CS undergrad at Scaler School of Technology & BITS Pilani · Bangalore, India</sub>
 </p>
 
 <p align="center">
   <a href="mailto:talindaga692@gmail.com">
-    <img src="https://img.shields.io/badge/Email-talindaga692%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-talindaga692%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1iD6JGnj99TCVNbqCRbHirBGCx68amVte/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive&logoColor=white" />
-  </a>
-  &nbsp;
-  <!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile link -->
   <a href="https://www.linkedin.com/in/talin-daga/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1iD6JGnj99TCVNbqCRbHirBGCx68amVte/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Résumé-View-34A853?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+I build backend systems that actually ship. I've taken a **B2B e-commerce platform from zero to production as a solo freelancer** — Django REST API, React frontend, PostgreSQL, live deployment — now serving **50+ business users**. Most of my work lives at the intersection of clean API design, concurrency correctness, and containerized deployment.
 
-I'm a student and self-driven backend developer passionate about building scalable APIs and server-side systems. Currently deepening my knowledge of Django and RESTful architecture while working on real-world projects.
+**Currently:** building [CodeGraph](https://github.com/Talin12), a static-analysis engine that maps code relationships using Python's AST, with Celery + Redis handling the heavy parsing.
 
-- 🔭 &nbsp;Currently building a **[Banking API](https://github.com/Talin12/Bank-server)**
-- 🌱 &nbsp;Learning **Django** and **REST APIs**
-- 💬 &nbsp;Happy to talk about **React** and **Next.js**
-- ⚡ &nbsp;Fun fact: I think I am logical
+**Open to:** backend / full-stack internships at early-stage startups where I can own features end-to-end.
+
+---
+
+## What I've Shipped
+
+### 🛒 B2B E-commerce Platform — *Pronoun Jeans* &nbsp;<sub>Freelance · In Production</sub>
+Designed, built, and deployed the entire platform solo. Modular DRF backend (catalog, cart, checkout, orders) consumed by a React frontend. Owned the full deployment pipeline: Django on Render, React on Vercel, PostgreSQL on Supabase.
+<br><sub>`Django` `DRF` `PostgreSQL` `Supabase` `React` `Whitenoise`</sub>
+
+### 🕸️ [CodeGraph](https://github.com/Talin12) &nbsp;<sub>In Progress</sub>
+Code-parsing system built on Python's `ast` module to extract structural relationships from source files. Celery + Redis run parsing asynchronously so heavy jobs never block the request thread. Full stack containerized and orchestrated with Docker Compose; React + Vite frontend renders the graphs.
+<br><sub>`Python` `Celery` `Redis` `Docker Compose` `React` `Vite`</sub>
+
+### 🏦 [Bank Server](https://github.com/Talin12/Bank-server)
+Full-stack banking application with atomic fund transfers using `select_for_update()` to prevent double-spend under concurrent requests. PostgreSQL schemas enforce valid financial states at the database level via integrity constraints.
+<br><sub>`Django` `PostgreSQL` `REST` `Docker` `React`</sub>
 
 ---
 
 ## Tech Stack
 
-**Backend**
+**Languages** &nbsp;&nbsp;`Python` `JavaScript` `SQL` `Java`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Backend** &nbsp;&nbsp;`Django` `Django REST Framework` `Celery`
 
-**Frontend**
+**Frontend** &nbsp;&nbsp;`React` `Vite`
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Data & Infra** &nbsp;&nbsp;`PostgreSQL` `Redis` `Supabase` `Docker` `Docker Compose` `Linux` `Git`
 
-**Databases & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+**Focus areas** &nbsp;&nbsp;REST API design · async task processing · concurrency control · database schema design · containerization
 
 ---
 
-## Featured Project
+## Also
 
-### 🏦 [Banking API](https://github.com/Talin12/Bank-server)
-A backend system simulating core banking operations — built to practice real-world API design, authentication, and database management.
+- 🧩 150+ problems solved on LeetCode
+- 🏅 Top 5 of 200+ teams — *Retail Insight* ML project
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Talin12&theme=default" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Talin12&theme=default" alt="Top Languages by Commit" />
 </p>
 
----
-
 <p align="center">
-  <em>Always learning. Always building.</em>
+  <sub>Reach me at <a href="mailto:talindaga692@gmail.com">talindaga692@gmail.com</a> — I reply fast.</sub>
 </p>
