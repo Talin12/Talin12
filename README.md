@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/talin-daga/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1iD6JGnj99TCVNbqCRbHirBGCx68amVte/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1o6qLdTB1wFJFt5Pb61im7XK-jWmEMUPn/view?usp=sharing">
     <img src="https://img.shields.io/badge/Résumé-View-34A853?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
